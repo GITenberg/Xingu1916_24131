@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Edith_Wharton
     - http://fr.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24131#Xingu1916
 gutenberg_issued: '2008-01-03'
 gutenberg_type: Text
 identifiers:
