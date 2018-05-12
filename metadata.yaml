@@ -1,0 +1,36 @@
+_repo: Xingu1916_24131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Societies and clubs -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'Authors -- Fiction'
+title: 'Xingu
+
+  1916'
+url: http://www.gutenberg.org/ebooks/24131
